@@ -1,0 +1,14 @@
+1) createDB need to improved by regex for DBnames (folder naming)
+
+2) colouring
+
+3) list to drop rather than typing the name of the database
+    drop or connect by list not by typing the name of the database
+
+4) if i want to cancle the current opertaion and get back to the previous Menu
+    for example if I select to drop table then I changed my mind !
+    what the appropriate thing to do rather than press CTRL+C ??
+
+5) connect from any where like listDB,createDB,etc...
+
+6) bla bla bla bla bla bla bla bla bla bla bla bla 
